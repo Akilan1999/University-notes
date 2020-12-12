@@ -1,4 +1,4 @@
-# Todo list 
+# Bio Inspired Computing part 1
 
 ## Logistic regression 
 - Why is it a linear classifier 
