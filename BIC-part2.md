@@ -24,7 +24,7 @@
 - Be aware of what kind of problem they're used for 
 - Dominance, non-dominated sets and fronts 
 - The use of sparsity measures to promote diversity
--
+
 ### NSGA-II
 - Understand how it works 
 - Be able to give an outline of the algorithm

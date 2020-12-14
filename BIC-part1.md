@@ -54,7 +54,7 @@
 ##### Stopping criteria 
 - Max No. of Generations, Max No of generation without improvement, max No of improvements.
 
-## Neuroneveolution 
+## Neuronevolution 
 ### Why ? 
 - Compared with Backpropagation: learn (Topology and weights)
 - Population based: global optima
