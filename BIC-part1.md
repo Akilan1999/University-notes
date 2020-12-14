@@ -23,7 +23,7 @@
 - examples 
 
 ## Deep learning: CNN(convolution neural nets)
-- Coevolution operation 
+- Convolution operation 
 - Pooling 
 - Hyperparameters
 - ReLu Activation Function
